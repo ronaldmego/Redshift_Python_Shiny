@@ -1,0 +1,13 @@
+name: Statuscargas_Rstudio
+title: Statuscargas_Rstudio
+username: mgodata
+account: mgodata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12155507
+bundleId: 8721313
+url: https://mgodata.shinyapps.io/Statuscargas_Rstudio/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: temp
