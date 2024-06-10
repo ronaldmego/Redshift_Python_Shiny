@@ -12,6 +12,7 @@ server-template.R
 
 # Ignore any folder named "temp" and its contents
 temp/
+rsconnect/
 
 # Ignore any files starting with "example"
 example*
